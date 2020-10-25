@@ -1,3 +1,14 @@
+### About project
+
+- Application to validate the form
+- REACT
+- CSS
+- metodology BEM
+- Simple form to send
+- email validation
+- name validation - the name has at least 3 letters
+- sending a form
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
